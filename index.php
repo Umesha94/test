@@ -7,7 +7,7 @@ include_once("header.php");
 ?>
 <body>
 <div class="container">
-<h1> HOME </h1>
+<h1> HOMES </h1>
 </div>
 
 <div class="container">
